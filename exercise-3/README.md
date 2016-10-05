@@ -9,3 +9,13 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# Git Status
+
+Code: `git status`
+
+Function:
+  1. Checks if any changes have been made to files in a repository. 
+  2. Displays status of files as either green or red text
+    1. Red text means changes have been made but not added (done with `git add` command)
+    2. Green text means changes have been added but not commited (done with `git commit` command)
