@@ -1,4 +1,4 @@
-# Exercise-2
+# Exercise-3
 
 As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should begin by forking this repository, then cloning it to your local machine (if you haven't already).
 
@@ -15,7 +15,7 @@ See `complete` branch for answers.
 Code: `git status`
 
 Function:
-  1. Checks if any changes have been made to files in a repository.
-  2. Displays status of files as either <font color = red> red </font> or <font color = green> green </font> text
+  + Checks if any changes have been made to files in a repository.
+  + Displays status of files as either <font color = red> red </font> or <font color = green> green </font> text
     * <font color = red> Red text </font> means changes have been made but not added (done with `git add` command)
     * <font color = green> Green text </font> means changes have been added but not commited (done with `git commit` command)
