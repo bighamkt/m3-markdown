@@ -15,7 +15,7 @@ See `complete` branch for answers.
 Code: `git status`
 
 Function:
-  1. Checks if any changes have been made to files in a repository. 
-  2. Displays status of files as either green or red text
-    1. Red text means changes have been made but not added (done with `git add` command)
-    2. Green text means changes have been added but not commited (done with `git commit` command)
+  1. Checks if any changes have been made to files in a repository.
+  2. Displays status of files as either <font color = green> green </font> or <font color = red> red </font> text
+    * <font color = green> Green text </font> means changes have been added but not commited (done with `git commit` command)
+    * <font color = red> Red text </font> means changes have been made but not added (done with `git add` command)
